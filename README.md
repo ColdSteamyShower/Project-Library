@@ -1,7 +1,7 @@
 Temporary until website version is completed
 # Projects
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FhmibmRi_10-years-of-experience-react-native-logo-svg%2F&psig=AOvVaw3gpr9Jg72tDIFqpiwpTqWV&ust=1633065598503000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDFyMn5pfMCFQAAAAAdAAAAABAJ' height="250" width="250">## Frontend (HTML, CSS, React)
+## Frontend (HTML, CSS, React)
 
 ***[ \[Software Development Lifecycle\] Social Media Screensaver ](https://github.com/tarekel96/Electron_BackgroundImage_App/tree/feature/ab-complete-reddit)***
 > Cross-Platform Electron application that replaces your current screensaver with a dynamic slideshow gathering images from Instagram and Reddit.
