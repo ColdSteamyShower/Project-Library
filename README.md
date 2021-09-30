@@ -4,7 +4,7 @@ Temporary until website version is completed
 ## Frontend (HTML, CSS, React)
 
 ***[ \[Software Development Lifecycle\] Social Media Screensaver ](https://github.com/tarekel96/Electron_BackgroundImage_App/tree/feature/ab-complete-reddit)***
-> Cross-Platform Electron application that replaces your current screensaver with a dynamic slideshow gathing images from Instagram and Reddit.
+> Cross-Platform Electron application that replaces your current screensaver with a dynamic slideshow gathering images from Instagram and Reddit.
   
   
   
@@ -32,15 +32,15 @@ Temporary until website version is completed
   
 ## Language: C
   
-***[ \[Algorithm Analysis\]Big Number Multiplication ](https://github.com/ColdSteamyShower/Algorithms.assignment1)***
+***[ \[Algorithm Analysis\] Big Number Multiplication ](https://github.com/ColdSteamyShower/Algorithms.assignment1)***
 > Large number multiplication (components over 64 bits). Optimized for high-performance computing.
   
   
-***[ \[Operating Systems\]Fork Implementation ](https://github.com/ColdSteamyShower/OS.assignment2)***
+***[ \[Operating Systems\] Fork Implementation ](https://github.com/ColdSteamyShower/OS.assignment2)***
 > Example of forking a child process with communication between the child and parent processes.
   
   
-***[ \[Operating Systems\]Main-Memory Simulator ](https://github.com/ColdSteamyShower/OS.assignment6)***
+***[ \[Operating Systems\] Main-Memory Simulator ](https://github.com/ColdSteamyShower/OS.assignment6)***
 > Virtual Page Table processor. Simulation of how virtual memory addresses work in operating systems, and provides memory runtime analytics.
 
 
