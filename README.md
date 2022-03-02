@@ -1,12 +1,25 @@
 Temporary until website version is completed
 # Projects
 
+
+
 ## Frontend (HTML, CSS, React)
 
 ***[ \[Software Development Lifecycle\] Social Media Screensaver ](https://github.com/tarekel96/Electron_BackgroundImage_App/tree/feature/ab-complete-reddit)***
 > Cross-Platform Electron application that replaces your current screensaver with a dynamic slideshow gathering images from Instagram and Reddit.
+
+
+***[ \[Database Management\] Quizify ](https://github.com/ColdSteamyShower/Quizify)***
+> A quiz website that asks the user to decide which of two songs has a more significant attribute, based on Spotify's AI analytics. Uses React in the front end, Express.js for the server, and MySQL on a Google Cloud server for a database.
   
-  
+
+
+## Haskell
+
+***[ \[Programming Languages\] Mandelbrot Zoom on Command Line ](https://github.com/ColdSteamyShower/CPSC354-report)***
+> A 25-page report involving Haskell Documentation, Haskell theory concepts, and an implementation example that renders a mandelbrot zoom set in command line.
+
+
   
 ## Language: C\#
 
