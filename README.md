@@ -5,6 +5,9 @@ Temporary until website version is completed
 
 ## Frontend (HTML, CSS, React)
 
+***[ DeMessage ](https://gitlab.com/ColdSteamyShower/demessage/)***
+> A fully decentralized instant messaging webapp that runs on Ethereum, and uses Gun.js for eventually-consistent storage with an express server to ensure availability.
+
 ***[ \[Software Development Lifecycle\] Social Media Screensaver ](https://github.com/tarekel96/Electron_BackgroundImage_App/tree/feature/ab-complete-reddit)***
 > Cross-Platform Electron application that replaces your current screensaver with a dynamic slideshow gathering images from Instagram and Reddit.
 
